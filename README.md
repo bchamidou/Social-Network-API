@@ -74,15 +74,17 @@ To execute the script, open a Git terminal on the main project folder (cloned fo
 ![Alt text]()
 
 ### Link 
-A link to the code:
-`
-https://github.com/bchamidou/Social-Network-API
 
-`
+A link to the code:
+```
+ https://github.com/bchamidou/Social-Network-API
+
+```
 A link to the Video:
- `
+
+ ```
  
- `
+ ```
 ## Contributing
 ***
 
