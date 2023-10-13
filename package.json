@@ -1,0 +1,24 @@
+{
+  "name": "social-network-api",
+  "version": "1.0.0",
+  "description": "The challenge is to build an API for a social network application. The users to share their thoughts, react to friends' thoughts, and create a friend list. technology used are Express.js for routing, a MongoDB database, and the Mongoose ODM. We may also optionally use a JavaScript date library of our choice.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bchamidou/Social-Network-API.git"
+  },
+  "author": "Cheik H Bagagnan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bchamidou/Social-Network-API/issues"
+  },
+  "homepage": "https://github.com/bchamidou/Social-Network-API#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.6.1"
+  }
+}
