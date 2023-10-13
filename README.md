@@ -78,7 +78,6 @@ To execute the script, open a Git terminal on the main project folder (cloned fo
 A link to the code:
 ```
  https://github.com/bchamidou/Social-Network-API
-
 ```
 A link to the Video:
 
