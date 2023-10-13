@@ -15,12 +15,10 @@ Technologies used:
 
 ## Table of Contents
 *** 
+- [Description](#installation)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Technologies](#Technologies)
-- [Examples](#Examples)
-- [Contributing](#contributing)
-- [Tests](#Tests)
+- [Usage](#usage)  
+- [Contributing](#contributing) 
 - [Contact](#contact)
 - [License](#license)
 
