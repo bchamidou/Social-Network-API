@@ -62,12 +62,9 @@ The installation can be completed by following these instructions:
 1. Clone the GitHub repository to you local computer. Click on the following link.
 * Repository link : https://github.com/bchamidou/bchamidou/Social-Network-API
 
-2. Install the following packages:
-    - Connect to MySql and use databases dedicated
-    - Run the command npm install  
-    - Run the command source db/schema.sql to create the database.
-    - Run the command npm run seed to seed the database.
-    - Run the command node start to run the software.
+2. Install the following packages: 
+    - Run the command npm install to download the packages.
+    - Then run the command node start to run the software. 
     
     The application will then begin to run locally.
 
@@ -84,12 +81,10 @@ A link to the code:
 https://github.com/bchamidou/Social-Network-API
 
 `
-
 A link to the Video:
  `
  
  `
-
 ## Contributing
 ***
 
