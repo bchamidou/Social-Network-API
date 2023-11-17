@@ -14,7 +14,6 @@ const ReactionSchema = new Schema(
             minLength: 1,
             maxlength: 280
         },
-        
         createdAt: {
             type: Date,
             default: Date.now,
@@ -22,12 +21,10 @@ const ReactionSchema = new Schema(
                 return dateFormat(createdAtVal);
             },
         },
-        
         username: {
             type: String,
             required: true
         },
-
     },
     {
         toJSON: {
